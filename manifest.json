@@ -1,0 +1,17 @@
+{
+  "name": "Alkitab Digital PWA",
+  "short_name": "Alkitab",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme-color": "#4f46e5",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://flaticon.com",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
